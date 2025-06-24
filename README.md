@@ -57,16 +57,6 @@ This repository contains a full academic-style analysis of public sentiment and 
 
 ---
 
-## 👩‍💻 Author
-
-**Basma Mohamed Abu Gheda**  
-Data Analyst | NLP Enthusiast | Independent Researcher
-
-[🔗 LinkedIn Profile (optional)](https://www.linkedin.com/in/your-profile)  
-📧 basma@email.com (or GitHub contact)
-
----
-
 ## 📄 License
 
 This project is shared under the MIT License — feel free to use, modify, and extend with proper attribution.
